@@ -44,6 +44,8 @@ Remotely operated underwater vehicles (ROVs) are underwater robots used for rese
 
 This project develops an ROV equipped with a surveillance system to record underwater video and stream selected footage to rescuers or operators. The design focuses on a low-cost, portable, safe and reliable ROV suitable for student use and for applications across civil, scientific and industrial domains.
 
+<img width="601" height="312" alt="image" src="https://github.com/user-attachments/assets/4e334a0a-024f-469b-a031-8ac42e6dbb50" />
+
 ---
 
 ## 2. Introduction
